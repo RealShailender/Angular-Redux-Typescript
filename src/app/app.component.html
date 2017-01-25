@@ -1,0 +1,17 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" [routerLink]="['']">
+        <i class="fa fa-truck" aria-hidden="true"></i>
+      </a>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a [routerLink]="['/counter']">Counter</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="container">
+  <div class="row">
+    <router-outlet></router-outlet>
+  </div>
+</div>
