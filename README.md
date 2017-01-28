@@ -14,8 +14,11 @@ For more information I am going to make a video tutorial where I will explain ho
 How to run this repo:
 
 git clone https://github.com/GhatuDB/Angular2-Redux-Typescript.git
+
 cd Angular2-Redux-Typescript
+
 npm install
+
 ng serve 
 
 http://localhost:4200 
