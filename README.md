@@ -10,3 +10,14 @@ Redux store is a controlled state container developed to help write consistent a
 These core principles enable building components that can use the OnPush change detection strategy giving you intelligent, performant change detection throughout your application.
 
 For more information I am going to make a video tutorial where I will explain how to use Redux on the top of the Angular2.
+
+How to run this repo:
+
+git clone https://github.com/GhatuDB/Angular2-Redux-Typescript.git
+cd Angular2-Redux-Typescript
+npm install
+ng serve 
+
+http://localhost:4200 
+
+
